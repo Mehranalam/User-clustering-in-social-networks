@@ -1,5 +1,7 @@
 # User Clustering in Social Networks
 
+![output](OUTPUT.png)
+
 ## Overview
 This project focuses on clustering users in social networks based on their interactions and features. The goal is to identify meaningful communities or groups of users with similar behaviors, which can be useful for recommendations, targeted marketing, and network analysis.
 
